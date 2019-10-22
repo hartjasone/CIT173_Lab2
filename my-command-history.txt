@@ -1,0 +1,58 @@
+    1  hello.py
+    2  man python
+    3  python ./hello.py
+    4  python3 ./hello.py
+    5  > ~/CIT_Lab3/my-python-output.txt
+    6  > ~/CIT173_Lab3/my-python-output.txt
+    7  ls
+    8  python3 ./infinite.py bg
+    9  mkdir CIT173_Lab2
+   10  cd CIT173_Lab2
+   11  cd
+   12  CIT173_Lab2
+   13  mkdir CIT173_Lab2
+   14  cd CIT173_Lab2
+   15  cd CIT173_lab3
+   16  cd CIT173_lab3_files
+   17  cd
+   18  CIT173_lab3_files
+   19  cd CIT173_lab3_files
+   20  rmdir CIT173_Lab2
+   21  cd
+   22  CIT173_Lab2
+   23  cd CIT173_Lab2
+   24  printenv
+   25  SHELL printenv
+   26  env
+   27  printenv $0
+   28  0
+   29  type
+   30  printenv $SHELL
+   31  echo $SHELL
+   32  type $SHELL
+   33  printenv $SHELL
+   34  echo $0
+   35  type $0
+   36  type bash
+   37  whereis $0
+   38  cd ~/
+   39  git clone https://github.com/RenoTechnologyAcademy/CIT_Lab2_Files.git
+   40  cd
+   41  https://github.com/renotechnologyacademy/cit173_lab2_files.git
+   42  cd
+   43  cd ~/
+   44  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab2_File.git
+   45  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab2_Files.git
+   46  cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+   47  wc ~/CIT173_Lab2/my-phonebook.txt
+   48  cat ~/CIT173_Lab2/my-phonebook.txt | less
+   49  cat ~/CIT173_Lab2_Files/phonelisting1.txt ~/CIT173_Lab2_Files/phonelisting2.txt > ~/CIT173_Lab2/my-phonelisting.txt
+   50  tac ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-phonebook-reverse.txt
+   51  join ~/CIT173_Lab2/my-phonebook.txt ~/CIT173_Lab2/my-phonelisting.txt > ~/CIT173_Lab2/my-joined-phonebook.txt
+   52  unexpand ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-tabbed-phonebook.txt
+   53  sort ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-sorted-phonebook.txt
+   54  nl ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-numbered-phonebook.txt
+   55  head ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-head-phonebook.txt
+   56  tail ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-tail-phonebook.txt
+   57  history > ~CIT_Lab2/my-command-history.txt
+   58  history > ~/CIT173_Lab2/my-command-history.txt
